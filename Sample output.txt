@@ -1,0 +1,94 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+===================== RESTART: C:\Users\manhd\Desktop\a1.py ====================
+Welcome to CGPA simulator Tool, designed by Duc Manh Nguyen, exclusively for full-time CS Undergraduates. 
+
+Already posted on https://github.com/ImmenseHorse
+Your numeric marks entered are secured and private. 
+
+What semester are you currently in? Enter 0 if you want to terminate the program. 0
+Thank you!
+
+===================== RESTART: C:\Users\manhd\Desktop\a1.py ====================
+Welcome to CGPA simulator Tool, designed by Duc Manh Nguyen, exclusively for full-time CS Undergraduates. 
+
+Already posted on https://github.com/ImmenseHorse
+Your numeric marks entered are secured and private. 
+
+What semester are you currently in? Enter 0 if you want to terminate the program. 9
+The entered semester is invalid. Please try again!
+What semester are you currently in? Enter 0 if you want to terminate the program. 6
+Unfortunately, you are not eligible for the co-op program.
+
+===================== RESTART: C:\Users\manhd\Desktop\a1.py ====================
+Welcome to CGPA simulator Tool, designed by Duc Manh Nguyen, exclusively for full-time CS Undergraduates. 
+
+Already posted on https://github.com/ImmenseHorse
+Your numeric marks entered are secured and private. 
+
+What semester are you currently in? Enter 0 if you want to terminate the program. 1
+Unfortunately, you are not eligible for the co-op program.
+
+===================== RESTART: C:\Users\manhd\Desktop\a1.py ====================
+Welcome to CGPA simulator Tool, designed by Duc Manh Nguyen, exclusively for full-time CS Undergraduates. 
+
+Already posted on https://github.com/ImmenseHorse
+Your numeric marks entered are secured and private. 
+
+What semester are you currently in? Enter 0 if you want to terminate the program. 3
+How many courses have you been taken? 12
+
+What is your expecting numeric grade for course No. 1 ? 65
+What is the weight for this course? 2
+
+What is your expecting numeric grade for course No. 2 ? 101
+Your input is not a valid numeric grade.
+
+What is your expecting numeric grade for course No. 2 ? 1111
+Your input is not a valid numeric grade.
+
+What is your expecting numeric grade for course No. 2 ? 87
+What is the weight for this course? 1
+
+What is your expecting numeric grade for course No. 3 ? 91
+What is the weight for this course? 2
+
+What is your expecting numeric grade for course No. 4 ? 97
+What is the weight for this course? 3
+Your input is not a valid weight.
+
+What is the weight for this course? 2
+
+What is your expecting numeric grade for course No. 5 ? 45
+What is the weight for this course? 1
+
+What is your expecting numeric grade for course No. 6 ? 88
+What is the weight for this course? 0
+Your input is not a valid weight.
+
+What is the weight for this course? 1
+
+What is your expecting numeric grade for course No. 7 ? 77
+What is the weight for this course? 1
+
+What is your expecting numeric grade for course No. 8 ? 93
+What is the weight for this course? 1
+
+What is your expecting numeric grade for course No. 9 ? 65
+What is the weight for this course? 1
+
+What is your expecting numeric grade for course No. 10 ? 78
+What is the weight for this course? 1
+
+What is your expecting numeric grade for course No. 11 ? 101
+Your input is not a valid numeric grade.
+
+What is your expecting numeric grade for course No. 11 ? 90
+What is the weight for this course? 2
+
+What is your expecting numeric grade for course No. 12 ? 81
+What is the weight for this course? 1
+
+Your CGPA is 3.42.
+You met the minimum CGPA requirement for co-op program.
